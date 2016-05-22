@@ -1,0 +1,365 @@
+[
+  {
+      "expand": "description,lead,url,projectKeys",
+      "self": "https://labela.atlassian.net/rest/api/2/project/20200",
+      "id": "20200",
+      "key": "AP",
+      "name": "Apollo",
+      "location": "Amsterdam",
+      "category": "Ongoing",
+      "latest" : "19-05-2016",
+      "todo": "10",
+      "inprogress" : "5",
+      "done" : "30",
+      "deadline" : "27-05-2016",
+      "assignees" : {
+          "1" : "https://labela.atlassian.net/secure/useravatar?ownerId=maik&avatarId=19600",
+          "2" : "https://labela.atlassian.net/secure/useravatar?ownerId=maik&avatarId=19600",
+          "3" : "https://labela.atlassian.net/secure/useravatar?ownerId=maik&avatarId=19600",
+          "4" : "https://labela.atlassian.net/secure/useravatar?ownerId=maik&avatarId=19600"
+      },
+      "avatarUrls": {
+          "48x48": "https://labela.atlassian.net/secure/projectavatar?pid=20200&avatarId=20500",
+          "24x24": "https://labela.atlassian.net/secure/projectavatar?size=small&pid=20200&avatarId=20500",
+          "16x16": "https://labela.atlassian.net/secure/projectavatar?size=xsmall&pid=20200&avatarId=20500",
+          "32x32": "https://labela.atlassian.net/secure/projectavatar?size=medium&pid=20200&avatarId=20500"
+      },
+      "projectCategory": {
+          "self": "https://labela.atlassian.net/rest/api/latest/projectCategory/10102",
+          "id": "10102",
+          "name": "LabelA",
+          "description": "intern"
+      },
+      "projectTypeKey": "software"
+  },{
+      "expand": "description,lead,url,projectKeys",
+      "self": "https://labela.atlassian.net/rest/api/2/project/19504",
+      "id": "19504",
+      "key": "BYD",
+      "name": "Bydehand",
+      "category": "Ongoing",
+      "location": "Amsterdam",
+      "latest" : "19-05-2016",
+      "todo": "10",
+      "inprogress" : "5",
+      "done" : "30",
+      "deadline" : "27-05-2016",
+      "assignees" : {
+          "1" : "https://labela.atlassian.net/secure/useravatar?ownerId=maik&avatarId=19600",
+          "2" : "https://labela.atlassian.net/secure/useravatar?ownerId=maik&avatarId=19600",
+          "3" : "https://labela.atlassian.net/secure/useravatar?ownerId=maik&avatarId=19600",
+          "4" : "https://labela.atlassian.net/secure/useravatar?ownerId=maik&avatarId=19600"
+      },
+      "avatarUrls": {
+          "48x48": "https://labela.atlassian.net/secure/projectavatar?avatarId=18003",
+          "24x24": "https://labela.atlassian.net/secure/projectavatar?size=small&avatarId=18003",
+          "16x16": "https://labela.atlassian.net/secure/projectavatar?size=xsmall&avatarId=18003",
+          "32x32": "https://labela.atlassian.net/secure/projectavatar?size=medium&avatarId=18003"
+      },
+      "projectTypeKey": "software"
+  },{
+      "expand": "description,lead,url,projectKeys",
+      "self": "https://labela.atlassian.net/rest/api/2/project/20501",
+      "id": "20501",
+      "key": "TB",
+      "name": "Thermae Bookingflow",
+      "category": "Hot",
+      "location": "Amsterdam",
+      "latest" : "19-05-2016",
+      "todo": "10",
+      "inprogress" : "5",
+      "done" : "30",
+      "deadline" : "27-05-2016",
+      "assignees" : {
+          "1" : "https://labela.atlassian.net/secure/useravatar?ownerId=maik&avatarId=19600",
+          "2" : "https://labela.atlassian.net/secure/useravatar?ownerId=maik&avatarId=19600",
+          "3" : "https://labela.atlassian.net/secure/useravatar?ownerId=maik&avatarId=19600",
+          "4" : "https://labela.atlassian.net/secure/useravatar?ownerId=maik&avatarId=19600"
+      },
+      "avatarUrls": {
+          "48x48": "https://labela.atlassian.net/secure/projectavatar?avatarId=18003",
+          "24x24": "https://labela.atlassian.net/secure/projectavatar?size=small&avatarId=18003",
+          "16x16": "https://labela.atlassian.net/secure/projectavatar?size=xsmall&avatarId=18003",
+          "32x32": "https://labela.atlassian.net/secure/projectavatar?size=medium&avatarId=18003"
+      },
+      "projectCategory": {
+          "self": "https://labela.atlassian.net/rest/api/latest/projectCategory/10102",
+          "id": "10102",
+          "name": "LabelA",
+          "description": "intern"
+      },
+      "projectTypeKey": "software"
+  },{
+      "expand": "description,lead,url,projectKeys",
+      "self": "https://labela.atlassian.net/rest/api/2/project/19800",
+      "id": "19800",
+      "key": "TOM",
+      "name": "Tom MKB Brandstof Parkeren",
+      "category": "Ongoing",
+      "location": "Rotterdam",
+      "latest" : "19-05-2016",
+      "todo": "10",
+      "inprogress" : "5",
+      "done" : "30",
+      "deadline" : "27-05-2016",
+      "assignees" : {
+          "1" : "https://labela.atlassian.net/secure/useravatar?ownerId=maik&avatarId=19600",
+          "2" : "https://labela.atlassian.net/secure/useravatar?ownerId=maik&avatarId=19600",
+          "3" : "https://labela.atlassian.net/secure/useravatar?ownerId=maik&avatarId=19600",
+          "4" : "https://labela.atlassian.net/secure/useravatar?ownerId=maik&avatarId=19600"
+      },
+      "avatarUrls": {
+          "48x48": "https://labela.atlassian.net/secure/projectavatar?pid=19800&avatarId=20100",
+          "24x24": "https://labela.atlassian.net/secure/projectavatar?size=small&pid=19800&avatarId=20100",
+          "16x16": "https://labela.atlassian.net/secure/projectavatar?size=xsmall&pid=19800&avatarId=20100",
+          "32x32": "https://labela.atlassian.net/secure/projectavatar?size=medium&pid=19800&avatarId=20100"
+      },
+      "projectTypeKey": "software"
+  },{
+      "expand": "description,lead,url,projectKeys",
+      "self": "https://labela.atlassian.net/rest/api/2/project/19503",
+      "id": "19503",
+      "key": "PRIS",
+      "name": "Prise",
+      "location": "Amsterdam",
+      "category": "Hot",
+      "latest" : "19-05-2016",
+      "todo": "10",
+      "inprogress" : "5",
+      "done" : "30",
+      "deadline" : "27-05-2016",
+      "assignees" : {
+          "1" : "https://labela.atlassian.net/secure/useravatar?ownerId=maik&avatarId=19600",
+          "2" : "https://labela.atlassian.net/secure/useravatar?ownerId=maik&avatarId=19600",
+          "3" : "https://labela.atlassian.net/secure/useravatar?ownerId=maik&avatarId=19600",
+          "4" : "https://labela.atlassian.net/secure/useravatar?ownerId=maik&avatarId=19600"
+      },
+      "avatarUrls": {
+          "48x48": "https://labela.atlassian.net/secure/projectavatar?avatarId=18003",
+          "24x24": "https://labela.atlassian.net/secure/projectavatar?size=small&avatarId=18003",
+          "16x16": "https://labela.atlassian.net/secure/projectavatar?size=xsmall&avatarId=18003",
+          "32x32": "https://labela.atlassian.net/secure/projectavatar?size=medium&avatarId=18003"
+      },
+      "projectTypeKey": "software"
+  },{
+      "expand": "description,lead,url,projectKeys",
+      "self": "https://labela.atlassian.net/rest/api/2/project/20000",
+      "id": "20000",
+      "key": "VOICY",
+      "name": "Voicy",
+      "category": "Hot",
+      "location": "Amsterdam",
+      "latest" : "19-05-2016",
+      "todo": "10",
+      "inprogress" : "5",
+      "done" : "30",
+      "deadline" : "27-05-2016",
+      "assignees" : {
+          "1" : "https://labela.atlassian.net/secure/useravatar?ownerId=maik&avatarId=19600",
+          "2" : "https://labela.atlassian.net/secure/useravatar?ownerId=maik&avatarId=19600",
+          "3" : "https://labela.atlassian.net/secure/useravatar?ownerId=maik&avatarId=19600",
+          "4" : "https://labela.atlassian.net/secure/useravatar?ownerId=maik&avatarId=19600"
+      },
+      "avatarUrls": {
+          "48x48": "https://labela.atlassian.net/secure/projectavatar?avatarId=18003",
+          "24x24": "https://labela.atlassian.net/secure/projectavatar?size=small&avatarId=18003",
+          "16x16": "https://labela.atlassian.net/secure/projectavatar?size=xsmall&avatarId=18003",
+          "32x32": "https://labela.atlassian.net/secure/projectavatar?size=medium&avatarId=18003"
+      },
+      "projectTypeKey": "software"
+  },{
+      "expand": "description,lead,url,projectKeys",
+      "self": "https://labela.atlassian.net/rest/api/2/project/18700",
+      "id": "18700",
+      "key": "GROW",
+      "name": "Grow-Bee",
+      "location": "Amsterdam",
+      "category": "Ongoing",
+      "latest" : "19-05-2016",
+      "todo": "10",
+      "inprogress" : "5",
+      "done" : "30",
+      "deadline" : "27-05-2016",
+      "assignees" : {
+          "1" : "https://labela.atlassian.net/secure/useravatar?ownerId=maik&avatarId=19600",
+          "2" : "https://labela.atlassian.net/secure/useravatar?ownerId=maik&avatarId=19600",
+          "3" : "https://labela.atlassian.net/secure/useravatar?ownerId=maik&avatarId=19600",
+          "4" : "https://labela.atlassian.net/secure/useravatar?ownerId=maik&avatarId=19600"
+      },
+      "avatarUrls": {
+          "48x48": "https://labela.atlassian.net/secure/projectavatar?avatarId=18003",
+          "24x24": "https://labela.atlassian.net/secure/projectavatar?size=small&avatarId=18003",
+          "16x16": "https://labela.atlassian.net/secure/projectavatar?size=xsmall&avatarId=18003",
+          "32x32": "https://labela.atlassian.net/secure/projectavatar?size=medium&avatarId=18003"
+      },
+      "projectTypeKey": "software"
+  },{
+      "expand": "description,lead,url,projectKeys",
+      "self": "https://labela.atlassian.net/rest/api/2/project/19401",
+      "id": "19401",
+      "key": "GR",
+      "name": "Greenwheels",
+      "location": "Amsterdam",
+      "category": "Ongoing",
+      "latest" : "19-05-2016",
+      "todo": "10",
+      "inprogress" : "5",
+      "done" : "30",
+      "deadline" : "27-05-2016",
+      "assignees" : {
+          "1" : "https://labela.atlassian.net/secure/useravatar?ownerId=maik&avatarId=19600",
+          "2" : "https://labela.atlassian.net/secure/useravatar?ownerId=maik&avatarId=19600",
+          "3" : "https://labela.atlassian.net/secure/useravatar?ownerId=maik&avatarId=19600",
+          "4" : "https://labela.atlassian.net/secure/useravatar?ownerId=maik&avatarId=19600"
+      },
+      "avatarUrls": {
+          "48x48": "https://labela.atlassian.net/secure/projectavatar?pid=19401&avatarId=19601",
+          "24x24": "https://labela.atlassian.net/secure/projectavatar?size=small&pid=19401&avatarId=19601",
+          "16x16": "https://labela.atlassian.net/secure/projectavatar?size=xsmall&pid=19401&avatarId=19601",
+          "32x32": "https://labela.atlassian.net/secure/projectavatar?size=medium&pid=19401&avatarId=19601"
+      },
+      "projectTypeKey": "software"
+  },{
+      "expand": "description,lead,url,projectKeys",
+      "self": "https://labela.atlassian.net/rest/api/2/project/19501",
+      "id": "19501",
+      "key": "AED",
+      "name": "Aedes",
+      "category": "Ongoing",
+      "location": "Rotterdam",
+      "latest" : "19-05-2016",
+      "todo": "10",
+      "inprogress" : "5",
+      "done" : "30",
+      "deadline" : "27-05-2016",
+      "assignees" : {
+          "1" : "https://labela.atlassian.net/secure/useravatar?ownerId=maik&avatarId=19600",
+          "2" : "https://labela.atlassian.net/secure/useravatar?ownerId=maik&avatarId=19600",
+          "3" : "https://labela.atlassian.net/secure/useravatar?ownerId=maik&avatarId=19600",
+          "4" : "https://labela.atlassian.net/secure/useravatar?ownerId=maik&avatarId=19600"
+      },
+      "avatarUrls": {
+          "48x48": "https://labela.atlassian.net/secure/projectavatar?avatarId=18003",
+          "24x24": "https://labela.atlassian.net/secure/projectavatar?size=small&avatarId=18003",
+          "16x16": "https://labela.atlassian.net/secure/projectavatar?size=xsmall&avatarId=18003",
+          "32x32": "https://labela.atlassian.net/secure/projectavatar?size=medium&avatarId=18003"
+      },
+      "projectTypeKey": "software"
+  },{
+      "expand": "description,lead,url,projectKeys",
+      "self": "https://labela.atlassian.net/rest/api/2/project/10101",
+      "id": "10101",
+      "key": "ROTTERDAMINFO",
+      "name": "Rotterdam.info",
+      "category": "Ongoing",
+      "location": "Rotterdam",
+      "latest" : "19-05-2016",
+      "todo": "10",
+      "inprogress" : "5",
+      "done" : "30",
+      "deadline" : "27-05-2016",
+      "assignees" : {
+          "1" : "https://labela.atlassian.net/secure/useravatar?ownerId=maik&avatarId=19600",
+          "2" : "https://labela.atlassian.net/secure/useravatar?ownerId=maik&avatarId=19600",
+          "3" : "https://labela.atlassian.net/secure/useravatar?ownerId=maik&avatarId=19600",
+          "4" : "https://labela.atlassian.net/secure/useravatar?ownerId=maik&avatarId=19600"
+      },
+      "avatarUrls": {
+          "48x48": "https://labela.atlassian.net/secure/projectavatar?pid=10101&avatarId=14701",
+          "24x24": "https://labela.atlassian.net/secure/projectavatar?size=small&pid=10101&avatarId=14701",
+          "16x16": "https://labela.atlassian.net/secure/projectavatar?size=xsmall&pid=10101&avatarId=14701",
+          "32x32": "https://labela.atlassian.net/secure/projectavatar?size=medium&pid=10101&avatarId=14701"
+      },
+      "projectCategory": {
+          "self": "https://labela.atlassian.net/rest/api/latest/projectCategory/10000",
+          "id": "10000",
+          "name": "Website",
+          "description": "Alle te ontwikkelen websites"
+      },
+      "projectTypeKey": "software"
+  },{
+      "expand": "description,lead,url,projectKeys",
+      "self": "https://labela.atlassian.net/rest/api/2/project/19901",
+      "id": "19901",
+      "key": "LAWORK",
+      "name": "Label A - Workflow",
+      "category": "Ongoing",
+      "location": "Amsterdam",
+      "latest" : "19-05-2016",
+      "todo": "10",
+      "inprogress" : "5",
+      "done" : "30",
+      "deadline" : "27-05-2016",
+      "assignees" : {
+          "1" : "https://labela.atlassian.net/secure/useravatar?ownerId=maik&avatarId=19600",
+          "2" : "https://labela.atlassian.net/secure/useravatar?ownerId=maik&avatarId=19600",
+          "3" : "https://labela.atlassian.net/secure/useravatar?ownerId=maik&avatarId=19600",
+          "4" : "https://labela.atlassian.net/secure/useravatar?ownerId=maik&avatarId=19600"
+      },
+      "avatarUrls": {
+          "48x48": "https://labela.atlassian.net/secure/projectavatar?avatarId=18003",
+          "24x24": "https://labela.atlassian.net/secure/projectavatar?size=small&avatarId=18003",
+          "16x16": "https://labela.atlassian.net/secure/projectavatar?size=xsmall&avatarId=18003",
+          "32x32": "https://labela.atlassian.net/secure/projectavatar?size=medium&avatarId=18003"
+      },
+      "projectTypeKey": "software"
+  },{
+      "expand": "description,lead,url,projectKeys",
+      "self": "https://labela.atlassian.net/rest/api/2/project/20100",
+      "id": "20100",
+      "key": "TTA",
+      "name": "Tom Tanken App",
+      "category": "Hot",
+      "location": "Rotterdam",
+      "latest" : "19-05-2016",
+      "todo": "10",
+      "inprogress" : "5",
+      "done" : "30",
+      "deadline" : "27-05-2016",
+      "assignees" : {
+          "1" : "https://labela.atlassian.net/secure/useravatar?ownerId=maik&avatarId=19600",
+          "2" : "https://labela.atlassian.net/secure/useravatar?ownerId=maik&avatarId=19600",
+          "3" : "https://labela.atlassian.net/secure/useravatar?ownerId=maik&avatarId=19600",
+          "4" : "https://labela.atlassian.net/secure/useravatar?ownerId=maik&avatarId=19600"
+      },
+      "avatarUrls": {
+          "48x48": "https://labela.atlassian.net/secure/projectavatar?avatarId=18003",
+          "24x24": "https://labela.atlassian.net/secure/projectavatar?size=small&avatarId=18003",
+          "16x16": "https://labela.atlassian.net/secure/projectavatar?size=xsmall&avatarId=18003",
+          "32x32": "https://labela.atlassian.net/secure/projectavatar?size=medium&avatarId=18003"
+      },
+      "projectTypeKey": "software"
+  }, {
+      "expand": "description,lead,url,projectKeys",
+      "self": "https://labela.atlassian.net/rest/api/2/project/20502",
+      "id": "20502",
+      "key": "MIN",
+      "name": "Mindkeeper",
+      "category": "Ongoing",
+      "location": "Amsterdam",
+      "latest" : "19-05-2016",
+      "todo": "10",
+      "inprogress" : "5",
+      "done" : "30",
+      "deadline" : "27-05-2016",
+      "assignees" : {
+          "1" : "https://labela.atlassian.net/secure/useravatar?ownerId=maik&avatarId=19600",
+          "2" : "https://labela.atlassian.net/secure/useravatar?ownerId=maik&avatarId=19600",
+          "3" : "https://labela.atlassian.net/secure/useravatar?ownerId=maik&avatarId=19600",
+          "4" : "https://labela.atlassian.net/secure/useravatar?ownerId=maik&avatarId=19600"
+      },
+      "avatarUrls": {
+          "48x48": "https://labela.atlassian.net/secure/projectavatar?avatarId=18003",
+          "24x24": "https://labela.atlassian.net/secure/projectavatar?size=small&avatarId=18003",
+          "16x16": "https://labela.atlassian.net/secure/projectavatar?size=xsmall&avatarId=18003",
+          "32x32": "https://labela.atlassian.net/secure/projectavatar?size=medium&avatarId=18003"
+      },
+      "projectCategory": {
+          "self": "https://labela.atlassian.net/rest/api/latest/projectCategory/10102",
+          "id": "10102",
+          "name": "LabelA",
+          "description": "intern"
+      },
+      "projectTypeKey": "software"
+  },
+]

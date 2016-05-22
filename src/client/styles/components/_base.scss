@@ -1,0 +1,23 @@
+body {
+	font: 16px 'lato', 'Helvetica Neue', sans-serif;
+	background: #A5ECFA;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#app {
+    background: #edf1f2;
+    min-height: 100vh;
+    height: 100%;
+}
+
+.wrap {
+    margin-left: 130px;
+}
+
+#filter {
+    float: right;
+}

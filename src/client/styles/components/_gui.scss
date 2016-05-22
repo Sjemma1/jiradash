@@ -1,0 +1,82 @@
+h1, h2, h3, h4 {
+    font-family: 'montserrat_bld';
+}
+
+h1 {
+    font-family: "montserrat_reg", Arial, sans-serif;
+}
+
+h1 {
+    margin: 0;
+    color: #fff;
+    text-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
+    //width: 300px;
+    margin: 0;
+    padding: 20px 0;
+    font-size: 25px;
+    //float: left;
+    cursor: pointer;
+}
+
+h2 {
+    font-size: 20px;
+    color: black;
+}
+
+p {
+    font-family: 'montserrat_reg';
+}
+
+a {
+    text-decoration: none;
+}
+
+#logout {
+  height: 100vh;
+  text-align: center;
+  background: #73b300;
+  background: -moz-linear-gradient(top, #73b300 0%, #80be00 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #73b300), color-stop(100%, #80be00));
+  background: -webkit-linear-gradient(top, #73b300 0%, #80be00 100%);
+  background: -o-linear-gradient(top, #73b300 0%, #80be00 100%);
+  background: -ms-linear-gradient(top, #73b300 0%, #80be00 100%);
+  background: linear-gradient(to bottom, #73b300 0%, #80be00 100%);
+  h1 {
+    font-size: 50px;
+  }
+  h2 {
+    text-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
+    color: white;
+  }
+  .text {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+  }
+  .logo {
+    margin-top: 30px;
+  }
+}
+
+#main {
+  padding-left: 20px;
+  h1 {
+
+    color: black;
+  }
+}
+
+#filter {
+  margin-top: 20px;
+  label {
+    font-size: 20px;
+    padding: 10px;
+  }
+}
+//img {
+//  width: 50px;
+//}
